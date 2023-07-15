@@ -1,0 +1,586 @@
+nfts:
+- tokenId: b6fd3b36e1220bce1f61a4c0a76890dc73fdbfd0908e6e2a5e063f99b1992e5d
+  name: 'Summertime Madness #01'
+  description: >
+    {"721": {"SummertimeMadness-1": {"Generation": 0, "Character": "Victor",
+    "Theme": "One Colored Light ", "Palette": "Dull Red", "eye color": "Dull
+    Red", "Age": 45, "Birthday": "12-Oct", "Favorite music": "Shape of my heart-
+    Sting", "Pet": "Red Panda", "Job": "Database Administrator", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiakoczxp6uplxogfsh46txkkdwtxqcgike3hcb5whkzpo3udsmkdi
+- tokenId: e27161b27337844db10b22a81e19fa955d352f409e8e4681277dde4c02044fa8
+  name: 'Summertime Madness #02'
+  description: >-
+    {"721": {"SummertimeMadness-2": {"Generation": 0, "Character": "Victor",
+    "Theme": "One Colored Light ", "Palette": "Minty Green", "Eye color": "Minty
+    Green", "Age": 42, "Birthday": "30-Nov", "Favorite music": "Hymn For The
+    Weekend- Coldplay", "Pet": "Goat", "Job": "Farmer", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidbwrunjp5imcd2wihtvrr5mbesa5gul3tdkvnnxh5sf6w36i2uiq
+- tokenId: d1dfdd28e1657cf43cb174dcc374f3848073d94e28aa84b340a4a4e7e221c3dd
+  name: 'Summertime Madness #03'
+  description: >
+    {"721": {"SummertimeMadness-3": {"Generation": 0, "Character": "Victor",
+    "Theme": "One Colored Light ", "Palette": "Sunny Yellow", "Eye Color":
+    "Sunny Yellow", "Age": 41, "Birthday": "13-Dec", "Favorite music": "Fix you-
+    Coldplay", "Pet": "Meerkat", "Job": "Game Developer", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicsv2cea2wsosyr5lh553zzglmtmszlfiw3y2kqncg5uwpntt2ipu
+- tokenId: 1cf6453dc25fa5be9dd28dedba558a7f491d17e0253d12f70a05a8455741f153
+  name: 'Summertime Madness #04'
+  description: >
+    {"721": {"SummertimeMadness-4": {"Generation": 0, "Character": "Victor",
+    "Theme": "One Colored Light ", "Palette": "Blood Red", "Eye Color": "Blood
+    Red", "Age": 40, "Birthday": "5-Oct", "Favorite music": "Bleeding me-
+    Metallica", "Pet": "Dalmatian Dog", "Job": "Community developer", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeic2ylz3yzp773gps2y3howjfnrun6qs7y7x3zm6hbqet6iyrhytli
+- tokenId: ffce1e7b8894c5ed7ee264a431d68411db1b8ceb5edf2172a2c3dd4f8488bc6d
+  name: 'Summertime Madness #05'
+  description: >-
+    {"721": {"SummertimeMadness-5": {"Generation": 0, "Character": "Victor",
+    "Theme": "One Colored Light ", "Palette": "Viridian", "Eye Color":
+    "Viridian", "Age": 40, "Birthday": "19-Oct", "Favorite music": "Goodbye blue
+    sky- Pink Floyd", "Pet": "Sphynx Cat", "Job": "Miner", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeie5es3pr265g3ab6fr5fiflaln2ubnawkda77dkykm5wgdyuwxsbq
+- tokenId: 400ddaf508e2b1becd895634a74ea399246167e083e3b3ef38559acd390c2592
+  name: 'Summertime Madness #06'
+  description: >-
+    {"721": {"SummertimeMadness-6": {"Generation": 0, "Character": "Victor",
+    "Theme": "One Colored Light ", "Palette": "Hosta Blue", "Eye Color": "Hosta
+    Blue", "Age": 41, "Birthday": "9-Dec", "Favorite music": "Love is blue-
+    Marty Robbins", "Pet": "Exotic Shorthair Cat", "Job": "Miner", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicdelyp3dlj6wxvyz2aoi76cv54qtrwbueaiggcia7obyanrpr5om
+- tokenId: c8caf72e618576048e6b713ae374c1add4d437119e6b44fa094c016d64a6710a
+  name: 'Summertime Madness #07'
+  description: >-
+    {"721": {"SummertimeMadness-7": {"Generation": 0, "Character": "Victor",
+    "Theme": "One Colored Light ", "Palette": "Yellowish Orange", "Eye Color":
+    "Yellowish Orange", "Age": 39, "Birthday": "11-Nov", "Favorite music": "From
+    the dining table- Harry Styles", "Pet": "American Shorthair Cat", "Job":
+    "Community Developer", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifeiwkhhxg5ezxc7hq6c3y6i3fq6xkrsbad64vkqfyhknbfhftgmu
+- tokenId: 59572e2b0b2716d218de1b82120e604a0b374f1a424c22481e40378c14bf925b
+  name: 'Summertime Madness #08'
+  description: >-
+    {"721": {"SummertimeMadness-8": {"Generation": 0, "Character": "Victor",
+    "Theme": "One Colored Light ", "Palette": "Dark Orchid", "Eye Color": "Dark
+    Orchid", "Age": 43, "Birthday": "9-Oct", "Favorite music": "Careless
+    whisper- George Michael", "Pet": "Siamese Cat", "Job": "Investor", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifsq64xpphfz5xhxkcri57shtz7px6ikveroexr2nc4uzeckqjauu
+- tokenId: 684fb92fe8d2f979e1dd95f520850f14add397345676ac54690e63fded79e751
+  name: 'Summertime Madness #09'
+  description: >-
+    {"721": {"SummertimeMadness-9": {"Generation": 0, "Character": "Victor",
+    "Theme": "Two Colored Light ", "Palette": "Warm Purple+ Verdigris", "Eye
+    Color": "Warm Purple", "Age": 42, "Birthday": "19-Nov", "Favorite music":
+    "Wish you were here- Pink Floyd", "Pet": "Border Collie Dog", "Job":
+    "Investor", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeie3e6daacmrhpehixbglkg4p67xkm7nkr3jqft3eziwcmcpwlxwfu
+- tokenId: 17477233842854a5a33702ac028d8be1a12e5ca6d5973c7511dd022d3513f83e
+  name: 'Summertime Madness #10'
+  description: >-
+    {"721": {"SummertimeMadness-10": {"Generation": 0, "Character": "Victor",
+    "Theme": "Two Colored Light ", "Palette": "Ice Blue+ Red Wine", "Eye Color":
+    "Red Wine", "Age": 41, "Birthday": "21-Dec", "Favorite music": "Don't cry-
+    Guns N' Roses", "Pet": "Dragon", "Job": "Data Scientist", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeif66rcm4ry3zcank6pqffd4iztgxiuaox7qiuajshnzxlirrjup2m
+- tokenId: a8e8e3d81962e1326ea456e7cac1705b1fb1d4ad615af8e0b8b7b3e0db9934ac
+  name: 'Summertime Madness #11'
+  description: >-
+    {"721": {"SummertimeMadness-11": {"Generation": 0, "Character": "Victor",
+    "Theme": "Two Colored Light ", "Palette": "Mineral Green+ Golden", "Eye
+    Color": "Golden", "Age": 40, "Birthday": "22-Dec", "Favorite music": "The
+    night we met- Lord Huron", "Pet": "Exotic Shorthair Cat", "Job": "Community
+    Developer", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifoghnit5jikqk7tzhckd2k7p3bvp7ubw6tqn3tzg3q6esguvxy3u
+- tokenId: b186e4e84307d8fd7dbdde628cda5ca175c4ef7fef35eb38c8ebe0de057ad77a
+  name: 'Summertime Madness #12'
+  description: >
+    {"721": {"SummertimeMadness-12": {"Generation": 0, "Character": "Victor",
+    "Theme": "Two Colored Light ", "Palette": "Tropical Rain Forest+ Light Olive
+    Green", "Eye Color": "Light Olive Green", "Age": 41, "Birthday": "15-Oct",
+    "Favorite Music": "Hallelujah- Leonard Cohen", "Pet": "Turtle ", "Job":
+    "Teacher", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiajgrzjrzhohmeynyx6mu7b6acsj25fkdgqzok4x7iqklidssenky
+- tokenId: 9bdbc220e38ffe8ac7f90afc3c975cd81d9f52539d5ae67f6914a83ea11dd5cd
+  name: 'Summertime Madness #13'
+  description: >-
+    {"721": {"SummertimeMadness-13": {"Generation": 0, "Character": "Victor",
+    "Theme": "Two Colored Dark ", "Palette": "Ocean+ Cloud Burst", "Eye Color":
+    "Ocean", "Age": 40, "Birthday": "16-Oct", "Favorite Music": "Wasted time-
+    Eagles", "Pet": "Blue Jay Bird", "Job": "Electrical Engineer", "Rarity":
+    "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibc5rqp3r4e3duj2s5xna7its3zrztikmrixfjfzsyl2s6pazmm5m
+- tokenId: c51ba99387ec63f6018cff2bfcd0c2051728b8dd7721af80caef043ed3f9b8c2
+  name: 'Summertime Madness #14'
+  description: >-
+    {"721": {"SummertimeMadness-14": {"Generation": 0, "Character": "Victor",
+    "Theme": "Two Colored Dark ", "Palette": "Blood Red+ Blue Dianne", "Eye
+    Color": "Blood Red", "Age": 41, "Birthday": "04-Dec", "Favorite Music":
+    "Blood like lemonade- Morcheeba", "Pet": "Snake", "Job": "Core Developer",
+    "Rarity": "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiercfd5lxq6ocucxpbbieeq5fuqgaorrecgbqwtinbkxvqbm2tofa
+- tokenId: fb193437d785d0184743824532b575bc3bf90b04fd06b7e3699b043a5cb1965b
+  name: 'Summertime Madness #15'
+  description: >-
+    {"721": {"SummertimeMadness-15": {"Generation": 0, "Character": "Peter",
+    "Theme": "One Colored Light ", "Palette": "Papaya Orange", "Eye Color":
+    "Papaya Orange", "Age": 18, "Birthday": "23-Jan", "Favorite Music": "U-Turn-
+    Aaron", "Pet": "Frog", "Job": "Marketer", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihdbnbg3ncbfszcxvok5fjk2e3e3ofi7afuxgfutfspubdedbqhyi
+- tokenId: 15ee37de401891933f1a188a97d7190be2f5d998fadc1eec93d84355595f83bc
+  name: 'Summertime Madness #16'
+  description: >-
+    {"721": {"SummertimeMadness-16": {"Generation": 0, "Character": "Peter",
+    "Theme": "One Colored Light ", "Palette": "Shiraz ", "Eye Color": "Shiraz ",
+    "Age": 17, "Birthday": "03-Feb", "Favorite Music": "Instant crush- Daft
+    Punk", "Pet": "Squirrel", "Job": "Game Developer", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigabjcb6dqocr2wjycjosvnxxnkhstmtvrjpwbxxvpsgsutcjrxn4
+- tokenId: 9b2d288c83153892db4ba769c00178eaa77ee7658addd01c96be9d048ccaafe7
+  name: 'Summertime Madness #17'
+  description: >
+    {"721": {"SummertimeMadness-17": {"Generation": 0, "Character": "Peter",
+    "Theme": "One Colored Light ", "Palette": "Marble Blue", "Eye Color":
+    "Marble Blue", "Age": 18, "Birthday": "18-Mar", "Favorite Music": "Back to
+    black- Amy Winehouse", "Pet": "Squirrel", "Job": "Intern", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidza3c63dv7ay47l5idbqc3pcr6ecm6dmnt7of6lyqeuwc63xa73e
+- tokenId: 46db5f9944869ceba56bcb1f8c4b5494fd05e68fe5f207c8dc485a43ec9b48fd
+  name: 'Summertime Madness #18'
+  description: >
+    {"721": {"SummertimeMadness-18": {"Generation": 0, "Character": "Peter",
+    "Theme": "One Colored Light ", "Palette": "Barberry Yellow", "Eye Color":
+    "Barberry Yellow", "Age": 19, "Birthday": "26-Jan", "Favorite Music":
+    "Coraline- Maneskin", "Pet": "Koala", "Job": "Electrical Engineer",
+    "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiaskxan3z2ecnq32yxpaclf666ceisqm6ladtubxelzoxmzfmrcy4
+- tokenId: 1899b848a110c71849eac07efe15e3eee9eeed1d0eade2ad2b8d6fa591748cc5
+  name: 'Summertime Madness #19'
+  description: >-
+
+    {"721": {"SummertimeMadness-19": {"Generation": 0, "Character": "Peter",
+    "Theme": "One Colored Light ", "Palette": "Picton Blue", "Eye Color":
+    "Picton Blue", "Age": 17, "Birthday": "16-Feb", "Favorite Music": "If you
+    say the word- Radiohead", "Pet": "Havanese Dog", "Job": "Researcher",
+    "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeido5qk6uoonamxh7d67qqkljrcxsa5kqematwu6qduplrtog7fqni
+- tokenId: 2f05b5a2f1c315e3247f98a7214b11865104f0802536cce14dec323b08a9f843
+  name: 'Summertime Madness #20'
+  description: >-
+    {"721": {"SummertimeMadness-20": {"Generation": 0, "Character": "Peter",
+    "Theme": "One Colored Light ", "Palette": "Lavender Indigo", "Eye Color":
+    "Lavender Indigo", "Age": 17, "Birthday": "12-Mar", "Favorite Music":
+    "Snowman- Sia", "Pet": "Koala", "Job": "Miner", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeievlxi76hi4nk6fl7rn2egz3xcrwcdz7ihdnst25glkwx2zsmlkji
+- tokenId: 8bb7dc40cdd0c8bd624e154d9a74408c63c7fc85ce9be3c34989a3d614d0c6e4
+  name: 'Summertime Madness #21'
+  description: >-
+    {"721": {"SummertimeMadness-21": {"Generation": 0, "Character": "Peter",
+    "Theme": "One Colored Light ", "Palette": "Paris Green", "Eye Color": "Paris
+    Green", "Age": 19, "Birthday": "18-Feb", "Favorite Music": "Little love-
+    Aaron", "Pet": "Penguin", "Job": "Investor", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihsqaqizdmrfhnvsc4qitybwnzz7ltg7gydmqine3vagcqevyhx4y
+- tokenId: 9c150eac9437e2158c9f5fe37961c7dc3458b4a50bba545becf1122a0106246d
+  name: 'Summertime Madness #22'
+  description: >-
+    {"721": {"SummertimeMadness-22": {"Generation": 0, "Character": "Peter",
+    "Theme": "One Colored Light ", "Palette": "Fresh Green", "Eye Color": "Fresh
+    Green", "Age": 16, "Birthday": "13-Jan", "Favorite Music": "Happiness is a
+    butterfly- Lana Del Rey", "Pet": "Frog", "Job": "Art Student", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibeilrrcleee2qx6zadloxhtyetnuzk6wsicrzysepb7ix5l5y7by
+- tokenId: ae6a4ded9a68dcbf7125190ec4a9b8e4d334282cb3dd77637f01472b1f231541
+  name: 'Summertime Madness #23'
+  description: >-
+    {"721": {"SummertimeMadness-23": {"Generation": 0, "Character": "Peter",
+    "Theme": "Two Colored Light ", "Palette": "Smokey Grey+ Purple Dragon", "Eye
+    Color": "Smokey Grey+ Purple Dragon", "Age": 19, "Birthday": "2-Mar",
+    "Favorite Music": "Changes- Xxxtentacion", "Pet": "Cockatiel Bird", "Job":
+    "Teacher", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiedbxhs457fig7q5on6xip6rp3updddjp2bzu3ce5o3pxdmq37ghu
+- tokenId: 66f6822248d328120911f456c3804880b63dadf5f0d234ddce63a9a7b7b21098
+  name: 'Summertime Madness #24'
+  description: >-
+    {"721": {"SummertimeMadness-24": {"Generation": 0, "Character": "Peter",
+    "Theme": "Two Colored Light ", "Palette": "Vibrant green+ Battleship Gray",
+    "Eye Color": "Vibrant green+ Battleship Gray", "Age": 18, "Birthday":
+    "21-Feb", "Favorite Music": "Six feet under- Billie Eilish", "Pet":
+    "Cockatiel Bird", "Job": "Researcher", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidls2jymxmlvuteifeuarycnn54qfif2wd4zf3nlvznkjkpnxivia
+- tokenId: cdc958656fa4657e13ff54ca60d340c7cdff7ac88ef0c22b47ecf1fdf26475b8
+  name: 'Summertime Madness #25'
+  description: >-
+    {"721": {"SummertimeMadness-25": {"Generation": 0, "Character": "Peter",
+    "Theme": "Two Colored Light ", "Palette": "Neptune+ Indian Yellow", "Eye
+    Color": "Paris Green+ Indian Yellow", "Age": 16, "Birthday": "11-Mar",
+    "Favorite Music": "Pretty boy- The Neighborhood", "Pet": "Owl", "Job":
+    "Intern", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeib5r7vvkaxuab4fmautsui3b5icntjtveztl2ddvdx4stqi6atddi
+- tokenId: f25edc679b848c36d11630a47ed41f518dd82981cd552f9ca1db4504f5d39b35
+  name: 'Summertime Madness #26'
+  description: >-
+    {"721": {"SummertimeMadness-26": {"Generation": 0, "Character": "Peter",
+    "Theme": "Two Colored Light ", "Palette": "Sunny Yellow+ Charcoal Gray",
+    "Eye Color": "Sunny Yellow+ Charcoal Gray", "Age": 17, "Birthday": "26-Jan",
+    "Favorite Music": "Yellow- Coldplay", "Pet": "Siberian Husky", "Job":
+    "Community Developer", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiaxpbrptcuhmjkzmdh6amokumboni6goes7gwygdlz7rjlqhqhxei
+- tokenId: c17bd1eac8f1f130d2b9010493fef5e99a2936569190465b2ee8dd9375944b69
+  name: 'Summertime Madness #27'
+  description: >-
+    {"721": {"SummertimeMadness-27": {"Generation": 0, "Character": "Peter",
+    "Theme": "Two Colored Dark ", "Palette": "Raspberry+ Dark Magenta", "Eye
+    Color": "Raspberry", "Age": 17, "Birthday": "03-Jan", "Favorite Music": "Let
+    me down slowly- Alec Benjamin", "Pet": "Hedgehog", "Job": "Security
+    Analyst", "Rarity": "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeib5nnakiteiavdsjrxhqvjtx4b72rstvdk6n7nks5bk273dsw6cme
+- tokenId: a3f22dfe2b2cf8eda1b5f8e89f2f3c44e51e6b1a472875b020dd74e9ebfff617
+  name: 'Summertime Madness #28'
+  description: >-
+    {"721": {"SummertimeMadness-28": {"Generation": 0, "Character": "Peter",
+    "Theme": "Two Colored Dark ", "Palette": "Eucalyptus+ Dark Blue", "Eye
+    Color": "Eucalyptus", "Age": 18, "Birthday": "8-Feb", "Favorite Music":
+    "Asleep- The Smiths", "Pet": "Dinosaur", "Job": "Researcher", "Rarity":
+    "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifza5kykitcbwtmk3fp64yb2hoin3vcj6xj2pksfq2aakhjkx77qq
+- tokenId: 771be131b211d14ba7337ccdd92a0d83f3d538cda972cedffc4dd446dbe2df7e
+  name: 'Summertime Madness #29'
+  description: >-
+    {"721": {"SummertimeMadness-29": {"Generation": 0, "Character": "Julie",
+    "Theme": "One Colored Light ", "Palette": "Cool Blue", "Eye Color": "Cool
+    Blue", "Age": 35, "Birthday": "12-Aug", "Favorite Music": "Champagne
+    problems- Taylor Swift", "Pet": "Persian Cat", "Job": "Teacher", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiatebbub5tedygmiutlz5aqau4utvoog2x3tixf22szusy4t7nnuy
+- tokenId: 9ec66d7ed1957e6872712cf0c34aa7d6c1f2790716c7196512f053afb2f006e7
+  name: 'Summertime Madness #30'
+  description: >
+    {"721": {"SummertimeMadness-30": {"Generation": 0, "Character": "Julie",
+    "Theme": "One Colored Light ", "Palette": "Raspberry Rose", "Eye Color":
+    "Raspberry Rose", "Age": 35, "Birthday": "28-Aug", "Favorite Music": "Lover-
+    Taylor Swift", "Pet": "Rabbit", "Job": "Teacher", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeighyyonzjeayefjd47mif3kqkos4dogdmp4oewphyv57w4bf7fxei
+- tokenId: 3672e2c84766659821e756cab691039c88ac2dc3aed153317a5fde0cb0aa6655
+  name: 'Summertime Madness #31'
+  description: >
+    {"721": {"SummertimeMadness-31": {"Generation": 0, "Character": "Julie",
+    "Theme": "One Colored Light ", "Palette": "Orange Cinnamon", "Eye Color":
+    "Orange Cinnamon", "Age": 34, "Birthday": "16-Jul", "Favorite Music":
+    "Cinnamon girl- Lana Del Rey", "Pet": "Goldfish", "Job": "Researcher",
+    "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigbm64gxvjfbfftetuac5iiwyrt5uxooimupd7bphwljlcmptefaq
+- tokenId: ff3bb8a8ba7b20d81effadee5bd26a0d087433dffd09547d1cb2918da4faa38e
+  name: 'Summertime Madness #32'
+  description: >-
+    {"721": {"SummertimeMadness-32": {"Generation": 0, "Character": "Julie",
+    "Theme": "One Colored Light ", "Palette": "Tomato Red", "Eye Color": "Tomato
+    Red", "Age": 33, "Birthday": "17-Aug", "Favorite Music": "Easier than lying-
+    Halsey", "Pet": "Siberian Husky Dog", "Job": "Investor", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihh5s3ujjlls5ouajfukpkljtck6n5ak245g4kw75e367jdp2nv6u
+- tokenId: 250c5ca7a16c358f4476a81354029cbb076de90f10e80fa439261c517e49ed94
+  name: 'Summertime Madness #33'
+  description: >
+    {"721": {"SummertimeMadness-33": {"Generation": 0, "Character": "Julie",
+    "Theme": "One Colored Light ", "Palette": "Dark Orchid", "Eye Color": "Dark
+    Orchid", "Age": 34, "Birthday": "08-Jul", "Favorite Music": "Rare- Selena
+    Gomez", "Pet": "Persian Cat", "Job": "Makeup Artist", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicqhcit266noqxcfnbigw2cxuhnlwsfarm4xa4arfwgerd6wa6qsy
+- tokenId: f3a8e4607742f069b1c9d5ba159b10b6ed4d4f3164128190ad7eab471afa560c
+  name: 'Summertime Madness #34'
+  description: >-
+    {"721": {"SummertimeMadness-34": {"Generation": 0, "Character": "Julie",
+    "Theme": "One Colored Light ", "Palette": "Tiffany Blue", "Eye Color":
+    "Tiffany Blue", "Age": 36, "Birthday": "3-Sep", "Favorite Music": "Skyfall-
+    Adele", "Pet": "Hedgehog", "Job": "Therapist ", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifwcze7rzz2zyyrzimjbmktxnhdmyddeegbuhswysjoyqkolq7eu4
+- tokenId: 6d343942b314880078730ac243b3c336c965a0c2f2e65286b62c1b3e3d193379
+  name: 'Summertime Madness #35'
+  description: >-
+    {"721": {"SummertimeMadness-35": {"Generation": 0, "Character": "Julie",
+    "Theme": "One Colored Light ", "Palette": "Olive", "Eye Color": "Olive",
+    "Age": 36, "Birthday": "26-Aug", "Favorite Music": "August- Taylor Swift",
+    "Pet": "Squirrel", "Job": "Project Analyst", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiaaoppeyb4vhgegcmuiq4yhbn3osjvtnwg43hvecddhofq34sfoqq
+- tokenId: fab63b20fcbe5fef788d5ecfba009cd96c564eedf5e8140d0d857f389037955d
+  name: 'Summertime Madness #36'
+  description: >
+    {"721": {"SummertimeMadness-36": {"Generation": 0, "Character": "Julie",
+    "Theme": "One Colored Light ", "Palette": "Paris Green", "Eye Color": "Paris
+    Green", "Age": 32, "Birthday": "12-Sep", "Favorite Music": "Valse- Evgeny
+    Grinko", "Pet": "Hamster", "Job": "Mentor", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihe66ooxqtp75ify7s75sgjyebtigpkjkec2eousgxgb4cl66ua7u
+- tokenId: 93430f85ba2dc1ff06d63c1d9cd7ce0d7081e8c7d229ed99e7c060aaedd36aba
+  name: 'Summertime Madness #37'
+  description: >-
+    {"721": {"SummertimeMadness-37": {"Generation": 0, "Character": "Julie",
+    "Theme": "Two Colored Light ", "Palette": "Celestial Blue+ Lavender", "Eye
+    Color": "Celestial Blue", "Age": 36, "Birthday": "16-Jul", "Favorite Music":
+    "Homesick- Dua Lipa", "Pet": "Persian Cat", "Job": "Graphist", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiazb66zhmbkleedgscie6cj7auvnplfgfy3jmfyui2wwo4da2kxbi
+- tokenId: c2b0405cb792410ae3919ee8aaf7c1ff1a3aa39fea445e8f6b324b2b5defce0d
+  name: 'Summertime Madness #38'
+  description: >-
+    {"721": {"SummertimeMadness-38": {"Generation": 0, "Character": "Julie",
+    "Theme": "Two Colored Light ", "Palette": "Bluish Purple+ Purplish Pink",
+    "Eye Color": "Purplish Pink", "Age": 34, "Birthday": "25-Sep", "Favorite
+    Music": "Belle- ZAZ", "Pet": "Lovebirds", "Job": "Analyzer", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihzfco7p5dzyzd6ktzqoceuyak2ezkqfdlekk4lgtbe33yzqmgate
+- tokenId: 4afbc41b4fe1d885c55d63f2e7db0d2cb0d4877678ef77fe4ae5ff7708e1bbf3
+  name: 'Summertime Madness #39'
+  description: >-
+    {"721": {"SummertimeMadness-39": {"Generation": 0, "Character": "Julie",
+    "Theme": "Two Colored Light ", "Palette": "Orange+ Water Blue", "Eye Color":
+    "Water Blue", "Age": 32, "Birthday": "29-Aug", "Favorite Music": "Porteghale
+    man- Marjan Farsad", "Pet": "Goldfish", "Job": "Miner", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeib6vtfu4vlxfxy66wn6lb2ofntm5j3dikdm4qza2izzxeoeoh3n54
+- tokenId: be9986309cc40442a17ee9b864c5b3fca078dffac9b5c0181902fff980ed78af
+  name: 'Summertime Madness #40'
+  description: >-
+    {"721": {"SummertimeMadness-40": {"Generation": 0, "Character": "Julie",
+    "Theme": "Two Colored Light ", "Palette": "Indian Red+ Pastel Green", "Eye
+    Color": "Pastel Green", "Age": 32, "Birthday": "30-Sep", "Favorite Music":
+    "It ain't me- Selena Gomez", "Pet": "Siberian Cat", "Job": "Miner",
+    "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeif35apt5hct4amwtjchg3llo6kzc3es3dbk7ubtxfhu7m472lisay
+- tokenId: cbddd91044e4ee7967e50cc01ae0d4e453b3016599e0e8e16fe30707243f1b93
+  name: 'Summertime Madness #41'
+  description: >-
+    {"721": {"SummertimeMadness-41": {"Generation": 0, "Character": "Julie",
+    "Theme": "Two Colored Dark", "Palette": "Reef Gold+ Thunder", "Eye Color":
+    "Reef Gold", "Age": 34, "Birthday": "4-Jul", "Favorite Music": "One and
+    only- Adele", "Pet": "Siberian Cat", "Job": "Teacher", "Rarity": "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidwk7nfamma3klbg77pavs7zyb7ptkfbunyp37bugzn74t3wo3h3u
+- tokenId: df22c44a83954762db667e6127f5960051e8af036bee65399210413385d41d6e
+  name: 'Summertime Madness #42'
+  description: >-
+    {"721": {"SummertimeMadness-42": {"Generation": 0, "Character": "Julie",
+    "Theme": "Two Colored Dark", "Palette": "Sahara+ Wine Berry", "Eye Color":
+    "Wine Berry", "Age": 30, "Birthday": "27-Sep", "Favorite Music": "Happier-
+    Olivia Rodrigo", "Pet": "Red Panda", "Job": "Mentor", "Rarity": "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiezvmk5wqjekpdlmsc5bvs3jv5asonisyhghum7gvgmitx7losfvy
+- tokenId: 10a3ccfe18043194ef3e8d4781abca7bbf3a4681480345d53497856bb6b23caf
+  name: 'Summertime Madness #43'
+  description: >-
+    {"721": {"SummertimeMadness-43": {"Generation": 0, "Character": "Ashley",
+    "Theme": "One Colored Light ", "Palette": "Royal Fuchsia", "Eye Color":
+    "Royal Fuchsia", "Age": 15, "Birthday": "6-Jun", "Favorite Music": "The
+    heart wants what it wants- Selena Gomez", "Pet": "Ragdoll Cat", "Job": "Art
+    Student", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidpl4ier3xgozzarc3sisvkb2z7dh4hkjyoy26odtpkzomii6vbvq
+- tokenId: 32167124b3ea09ceee6f427ce4fd294af03a904d8b5870cc810821e1803dccae
+  name: 'Summertime Madness #44'
+  description: >
+    {"721": {"SummertimeMadness-44": {"Generation": 0, "Character": "Ashley",
+    "Theme": "One Colored Light ", "Palette": "Blue Ivy", "Eye Color": "Blue
+    Ivy", "Age": 18, "Birthday": "9-Apr", "Favorite Music": "November rain- Guns
+    N' Roses", "Pet": "Tit Bird", "Job": "Marketer", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidpjrdz62ml3robqddapeqf5osdvu55v7a4mxp4rwkxhc2dgutwxa
+- tokenId: c61ec367154ecff65a9b501155df28817e9a6058c2d7822f8759852139436c68
+  name: 'Summertime Madness #45'
+  description: >-
+    {"721": {"SummertimeMadness-45": {"Generation": 0, "Character": "Ashley",
+    "Theme": "One Colored Light ", "Palette": "Avocado", "Eye Color": "Avocado",
+    "Age": 18, "Birthday": "8-May", "Favorite Music": "Heathens- Twenty One
+    Pilots", "Pet": "Falcon Bird", "Job": "Teacher", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidfhwl7ujinkzzbdepp2md33cea4uphvvqeswi4axtyiy2pnjgyjm
+- tokenId: 0629c2097b1b2fb4b838b05200eb052e4e96c1bd40a516c11f1d23ab787d5e6d
+  name: 'Summertime Madness #46'
+  description: >-
+    {"721": {"SummertimeMadness-46": {"Generation": 0, "Character": "Ashley",
+    "Theme": "One Colored Light ", "Palette": "Silver Tree", "Eye Color":
+    "Silver Tree", "Age": 21, "Birthday": "24-Jun", "Favorite Music": "Somebody
+    that I used to know- Gotye", "Pet": "Raccoon", "Job": "Market Analyst",
+    "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiaaspaxhhsfwor4wm4vjxpzovo4tmxcdndpsc2lgweysgxjthtz5q
+- tokenId: ed45f22aaffc5731a821dbb240e05d623dd526db9bb1a620bdd7b2aaccc10872
+  name: 'Summertime Madness #47'
+  description: >-
+    {"721": {"SummertimeMadness-47": {"Generation": 0, "Character": "Ashley",
+    "Theme": "One Colored Light ", "Palette": "Meteor", "Eye Color": "Meteor",
+    "Age": 19, "Birthday": "18-Apr", "Favorite Music": "Without me- Eminem",
+    "Pet": "Hedgehog", "Job": "Game Developer", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibnzkv3nf2kvwpy2qpnbcnfyucfwmygnllbvs5qd3ccj357udilhi
+- tokenId: be2e9c91c7115b2f38193e843c529f08b23f9b18492d7a073bc24b1b6dcd0f48
+  name: 'Summertime Madness #48'
+  description: >-
+    {"721": {"SummertimeMadness-48": {"Generation": 0, "Character": "Ashley",
+    "Theme": "One Colored Light ", "Palette": "Mocha", "Eye Color": "Mocha",
+    "Age": 16, "Birthday": "14-Jun", "Favorite Music": "We fell in love in
+    October- Girl In Red", "Pet": "Koala", "Job": "Waitress", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeice237khdy5khj6qozupvuvf2vaale46ij5qlio2cu4glemy2owt4
+- tokenId: 1ebec99c8f32f300e0ccf7c646d744245d43a432758bcad74ee1e936c7297ef8
+  name: 'Summertime Madness #49'
+  description: >
+
+    {"721": {"SummertimeMadness-49": {"Generation": 0, "Character": "Ashley",
+    "Theme": "One Colored Light ", "Palette": "Lipstick Red", "Eye Color":
+    "Lipstick Red", "Age": 19, "Birthday": "11-Apr", "Favorite Music": "Girl is
+    a gun- Halsey ", "Pet": "Red Panda", "Job": "Data Scientist", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibuwodakrczcdhvn3wkzjrhfeqqgfhwriufjdeili7zei3rqn76yq
+- tokenId: f0df7b8c1c01ba7e93ba4bdf6f85779bf89ae21366439f59987e89487290e586
+  name: 'Summertime Madness #50'
+  description: >-
+    {"721": {"SummertimeMadness-50": {"Generation": 0, "Character": "Ashley",
+    "Theme": "One Colored Light ", "Palette": "Cerulean", "Eye Color":
+    "Cerulean", "Age": 22, "Birthday": "20-May", "Favorite Music": "Night
+    changes- One Direction", "Pet": "Squirrel", "Job": "Frontend Developer",
+    "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihlrlbhbmidqea2nmhl2qswiij2xx6tpug4ol7jk656jyia3dh6n4
+- tokenId: 6b7be45be8a8b483d35e1e029c3800ac27b6b6d12a9cd27483706ba490f846f7
+  name: 'Summertime Madness #51'
+  description: >-
+    {"721": {"SummertimeMadness-51": {"Generation": 0, "Character": "Ashley",
+    "Theme": "Two Colored Light ", "Palette": "Warm Blue+ Royal Fuchsia", "Eye
+    Color": "Warm Blue+ Royal Fuchsia", "Age": 24, "Birthday": "30-Jun",
+    "Favorite Music": "Don't blame me- Taylor Swift", "Pet": "White Persian
+    Cat", "Job": "Community Developer", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihq7bddxtgenj3qtqhbwml5rprd5aez2qjckddal4znqia72kdjo4
+- tokenId: 24a72a232dde6be54b376f681c2844680cf0f142730ef0c697d34523a275b260
+  name: 'Summertime Madness #52'
+  description: >
+    {"721": {"SummertimeMadness-52": {"Generation": 0, "Character": "Ashley",
+    "Theme": "Two Colored Light ", "Palette": "Clover Green+ Royal Blue", "Eye
+    Color": "Clover Green+ Royal Blue", "Age": 22, "Birthday": "21-Jun",
+    "Favorite Music": "West coast- Lana Del Rey", "Pet": "Labradoodle Dog",
+    "Job": "Intern", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifq645mafhbbfdpwuokwi4otcy7c73nqhp35gcnay2vemla5ssbdy
+- tokenId: 122a09467af82dfc1ab8de1774f7a3ddf6cf5f9be78a77b780e6a784a5ca112a
+  name: 'Summertime Madness #53'
+  description: >-
+    {"721": {"SummertimeMadness-53": {"Generation": 0, "Character": "Ashley",
+    "Theme": "Two Colored Light ", "Palette": "Aqua Marine+ Medium Orchid", "Eye
+    Color": "Medium Orchid", "Age": 17, "Birthday": "13-May", "Favorite Music":
+    "Hello?- Clairo", "Pet": "Hamster", "Job": "Researcher", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifr6y6nqtn2pkdia6kkdomcgiolls5aoc67t2mgbwrzh6n4ula7ha
+- tokenId: 4dd4a9c87b8185bb595cd50b86b62a1acc13c8f72227560621f17eaa6df97dd3
+  name: 'Summertime Madness #54'
+  description: >
+    {"721": {"SummertimeMadness-54": {"Generation": 0, "Character": "Ashley",
+    "Theme": "Two Colored Light ", "Palette": "Egyptian Blue+ Red", "Eye Color":
+    "Egyptian Blue", "Age": 19, "Birthday": "7-Apr", "Favorite Music": "Bad guy-
+    Billie Eilish", "Pet": "Himalayan Cat", "Job": "Investor", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibb63fhkt737i2ztumjg2zeeyrfww3sk5kheogmylvec7wi4zj6jq
+- tokenId: 7e7586454da017fd432a8b7d8cb7f85a541fdd156896c2e6f8f33f4ad1c864e7
+  name: 'Summertime Madness #55'
+  description: >-
+    {"721": {"SummertimeMadness-55": {"Generation": 0, "Character": "Ashley",
+    "Theme": "Two Colored Dark", "Palette": "Violent Violet+ Persian Blue", "Eye
+    Color": "Violent Violet+ Persian Blue", "Age": 21, "Birthday": "16-Jun",
+    "Favorite Music": "Clementine- Halsey", "Pet": "Labradoodle Dog", "Job":
+    "Analyzer", "Rarity": "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicwwpseerfw45flrs7dsch55qhjczbvmg2ng7v2k522kxc2pceqte
+- tokenId: a1dd3eaaafff8f269a14e5598ad14eaee9dce17a42e783c355ded7780747b1ba
+  name: 'Summertime Madness #56'
+  description: >
+    {"721": {"SummertimeMadness-56": {"Generation": 0, "Character": "Ashley",
+    "Theme": "Two Colored Dark", "Palette": "Pumpkin Orange+ Walnut", "Eye
+    Color": "Pumpkin Orange+ Walnut", "Age": 17, "Birthday": "31-May", "Favorite
+    Music": "High by the beach- Lana Del Rey", "Pet": "Ragdoll Cat", "Job":
+    "Graphist", "Rarity": "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibvjs2g52phjw7rtjkohvsjo4m63qfzcvpimw6gldnanqwa2wh43u
+- tokenId: d129a74d8ed462b2a77e1bad8cacddb05522ee6dfbf2e8a6c826c119e26e57ef
+  name: 'Summertime Madness #57'
+  description: >-
+    {"721": {"SummertimeMadness-57": {"Generation": 0, "Character": "Victor",
+    "Theme": "Dark Shining Eyes", "Palette": "Blue Diamond+ Myrtle Green", "Eye
+    Color": "Blue Diamond", "Age": 43, "Birthday": "07-Nov", "Favorite Music":
+    "Dark but just a game- Lana Del Rey", "Pet": "Swan", "Job": "Pianist ",
+    "Rarity": "Unique"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeia2zzrvlkjnoeilzvg4uxufr5gftpul2lunmithi62cl4zhkpzzbm
+- tokenId: 6a5207590af0c5a851fdb882885f6c0404e38a95c53348ec670f5582fd3060eb
+  name: 'Summertime Madness #58'
+  description: >-
+    {"721": {"SummertimeMadness-58": {"Generation": 0, "Character": "Peter",
+    "Theme": "Dark Shining Eyes", "Palette": "Paprika+ Blue Zircon", "Eye
+    Color": "Ocean Blue", "Age": 19, "Birthday": "16-Mar", "Favorite Music":
+    "Ocean Eyes- Billie Eilish", "Pet": "Hamster", "Job": "Painter", "Rarity":
+    "Unique"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibu5jexwbrtqcwiwe4me6toqhca3acopznmct6rlarssegustppqi
+- tokenId: ef552f1970507dcff71817213a8c58e52e5c4b400995db7436e92bb69e0864dd
+  name: 'Summertime Madness #59'
+  description: >-
+    {"721": {"SummertimeMadness-59": {"Generation": 0, "Character": "Julie",
+    "Theme": "Dark Shining Eyes", "Palette": "Sunglow+ Faded Jade", "Eye Color":
+    "Sunglow", "Age": 35, "Birthday": "09-Jul", "Favorite Music": "Writer in the
+    dark- Lorde", "Pet": "Snowy Owl", "Job": "Writer", "Rarity": "Unique"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiceunrkn3dhjds2wumcqfnrseatp2bv7ajqcyfqhrlxzdelpetp4m
+- tokenId: edd3833aa0805600d44eadc43f552e46d6f6f3f17d7a8981cf9eebd32caf6fe2
+  name: 'Summertime Madness #60'
+  description: >
+
+    {"721": {"SummertimeMadness-60": {"Generation": 0, "Character": "Ashley",
+    "Theme": "Dark Shining Eyes", "Palette": "Heliotrope Purple+ Meteorite ",
+    "Eye Color": "Heliotrope Purple", "Age": 18, "Birthday": "21-Jun", "Favorite
+    Music": "R U mine- Arctic Monkeys", "Pet": "Axolotl", "Job": "Gamer",
+    "Rarity": "Unique"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidgp2jkpdsjh35lumhnxzyrcoizezeog463zirmqupgy5ksp52bfa
