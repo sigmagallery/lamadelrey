@@ -3,5 +3,5 @@ collections:
   data: summertimemadness.yml
   image: https://gateway.ipfs.io/ipfs/bafybeiakoczxp6uplxogfsh46txkkdwtxqcgike3hcb5whkzpo3udsmkdi
 - label: Creeping Madness
-  date: creepingmadness.yml
+  data: creepingmadness.yml
   image: https://gateway.ipfs.io/ipfs/bafybeiew25hwdjqjylv4xk2dd6qup7jz77zcbovad4sdeqps6c33bhlfzi
