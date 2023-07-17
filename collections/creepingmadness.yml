@@ -1,0 +1,579 @@
+nfts:
+- tokenId: 1047955370283b52b7a44b10a6cdcee6be047bd38a729bb22ef0178e8c4a6db3
+  name: 'Creeping Madness #01'
+  description: >-
+    {"721": {"CreepingMadness-1": {"Generation": 1, "Character": "Nathan",
+    "Theme": "One Colored Light ", "Palette": "Malachite Green", "Eye Color":
+    "Malachite Green", "Age": 24, "Birthday": "9-Oct", "Favorite Music": "Be
+    Alright- Dean Lewis", "Pet": "Blue Jay Bird", "Job": "Researcher", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiew25hwdjqjylv4xk2dd6qup7jz77zcbovad4sdeqps6c33bhlfzi
+- tokenId: 5b3865e4871cba722b721b33c8fd874ee65b404a877a4b73ca15ad536b0d242b
+  name: 'Creeping Madness #02'
+  description: >
+    {"721": {"CreepingMadness-2": {"Generation": 1, "Character": "Nathan",
+    "Theme": "One Colored Light ", "Palette": "Flat Blue", "Eye Color": "Flat
+    Blue", "Age": 26, "Birthday": "10-Oct", "Favorite Music": "Forth of July-
+    Sufjan Stevens", "Pet": "Dog", "Job": "Community Developer", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiaip6lmdbw5c6omhzvzu6xnncqnzgrtdxoy2o3xrg6oylow2gkxsa
+- tokenId: 60ab86a471d99f749d2d02d101e53941c36fd305159d0c6f9c7227e4c47294c7
+  name: 'Creeping Madness #03'
+  description: >-
+    {"721": {"CreepingMadness-3": {"Generation": 1, "Character": "Nathan",
+    "Theme": "One Colored Light ", "Palette": "Driftwood", "Eye Color":
+    "Driftwood", "Age": 22, "Birthday": "06-Nov", "Favorite Music": "Exit Music-
+    Radiohead", "Pet": "Meerkat", "Job": "Intern", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeif3ggdubd3g52ny3hhpvd2navhydd6db37657ufkiooia76ksie7m
+- tokenId: bc6f2315f9a6b79fd0cbab83e876f41f47eb1f58ba9dfddb18572275bc48080b
+  name: 'Creeping Madness #04'
+  description: >
+    {"721": {"CreepingMadness-4": {"Generation": 1, "Character": "Nathan",
+    "Theme": "One Colored Light ", "Palette": "Scarlet Red", "Eye Color":
+    "Scarlet Red", "Age": 30, "Birthday": "17-Nov", "Favorite Music": "In the
+    end- Linkin Park", "Pet": "Hedgehog", "Job": "Singer", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicss3lef6o35wa6zkoquninf53ke6i5ok47ihpcw6gv7byqg7cmoy
+- tokenId: 0ab9853e7f85c5d218a12c1b6b62cb4db34475bd39d349d2da051b57c6ba3999
+  name: 'Creeping Madness #05'
+  description: >
+    {"721": {"CreepingMadness-5": {"Generation": 1, "Character": "Nathan",
+    "Theme": "One Colored Light ", "Palette": "Sun Glow", "Eye Color": "Sun
+    Glow", "Age": 22, "Birthday": "22-Oct", "Favorite Music": "Take what you
+    want- Def Leppard", "Pet": "Goldfish", "Job": "Game Developer", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifo7zxy2nrz7kekysgjwkxsoldkhgw76jxq7usq5mkvdsn56qq2ja
+- tokenId: 60b3983bbb9bbaee0e1f3674ad66ead6dc35359a3cec0b151058e3a43bb30a04
+  name: 'Creeping Madness #06'
+  description: >-
+    {"721": {"CreepingMadness-6": {"Generation": 1, "Character": "Nathan",
+    "Theme": "One Colored Light ", "Palette": "Greenish Cyan", "Eye Color":
+    "Greenish Cyan", "Age": 22, "Birthday": "27-Oct", "Favorite Music": "16
+    Lines- Lil Peep", "Pet": "Blue Jay Bird", "Job": "Graphist", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihqnooi55reyrjhjfmuz7abk5q5ulb4e42cvgtl2cnpc7jkozlzri
+- tokenId: a7ef0e6924009012658553d842ce24110833b527c9032a514b2c4b4432bf4855
+  name: 'Creeping Madness #07'
+  description: >
+    {"721": {"CreepingMadness-7": {"Generation": 1, "Character": "Nathan",
+    "Theme": "One Colored Light ", "Palette": "London Hue", "Eye Color": "London
+    Hue", "Age": 25, "Birthday": "13-Sep", "Favorite Music": "Titanium- Sia",
+    "Pet": "Dog", "Job": "Miner", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibiotowdrir7fhhe25uod2vshyocxaaut6nlxp3ike24wyelgwpzm
+- tokenId: 2396b5f9dc138b27f3de8791d144b0fc94a20e7fca2ef8330912117f28d73741
+  name: 'Creeping Madness #08'
+  description: >-
+    {"721": {"CreepingMadness-8": {"Generation": 1, "Character": "Nathan",
+    "Theme": "One Colored Light ", "Palette": "Sunset Orange", "Eye Color":
+    "Sunset Orange", "Age": 30, "Birthday": "19-Sep", "Favorite Music": "Creep-
+    Radiohead", "Pet": "Falcon", "Job": "Song Writer", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigmuh2tbb4agee4z2ymhokewy2qa5gl5ci7jgeofgx7tnalwjjidi
+- tokenId: bf247f6a8a7c252d24f9f2ea915ec3820446f6f693814a1c571c176cd34e4793
+  name: 'Creeping Madness #09'
+  description: >-
+    {"721": {"CreepingMadness-9": {"Generation": 1, "Character": "Nathan",
+    "Theme": "Two Colored Light ", "Palette": "Reddish Orange+ Heathered Grey",
+    "Eye Color": "Reddish Orange+ Heathered Grey", "Age": 27, "Birthday":
+    "18-Nov", "Favorite Music": "Hey you- Pink Floyd", "Pet": "Owl", "Job":
+    "Singer", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeic722tg6aqq6kdwqgfw4abiapbhvrr5ol6pe3cgl3vi5an3jm5fjy
+- tokenId: 1f170a8c937e9b7e3264d8df2b82d0c8bf836cf244daabe1ef261470d9a56cbe
+  name: 'Creeping Madness #10'
+  description: >-
+    {"721": {"CreepingMadness-10": {"Generation": 1, "Character": "Nathan",
+    "Theme": "Two Colored Light ", "Palette": "Pale Teal+ Red Berry", "Eye
+    Color": "Pale Teal+ Red Berry", "Age": 27, "Birthday": "22-Nov", "Favorite
+    Music": "Careless Whispers- Seether", "Pet": "Dog", "Job": "Miner",
+    "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeig6gtwgo3omnoolsfkfurybrmg3wmir5a7ibi5ok3plhpzcq2rsoe
+- tokenId: 53ba5a18b20f5dcd5c55a9a990873014c75989c8f903d85acef0527d7e626862
+  name: 'Creeping Madness #11'
+  description: >-
+    {"721": {"CreepingMadness-11": {"Generation": 1, "Character": "Nathan",
+    "Theme": "Two Colored Light ", "Palette": "Rose Ebony+ Bright Gold", "Eye
+    Color": "Rose Ebony+ Bright Gold", "Age": 25, "Birthday": "02-Oct",
+    "Favorite Music": "Rise- Aaron", "Pet": "Dragon", "Job": "Musician",
+    "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibzhme7xdi3r2emsmvatouvha7wxaly2ukw6kiyvoy3i5pi7l2ut4
+- tokenId: 2dfcf70e8a83502bfd6601545b7e75b3c9e1885d58fa21fe49000285cb02171f
+  name: 'Creeping Madness #12'
+  description: >-
+    {"721": {"CreepingMadness-12": {"Generation": 1, "Character": "Nathan",
+    "Theme": "Two Colored Light ", "Palette": "Mid Grey+ Greenish Cyan", "Eye
+    Color": "Mid Grey+ Greenish Cyan", "Age": 24, "Birthday": "03-Sep",
+    "Favorite Music": "Just- Radiohead", "Pet": "Blue Jay Bird", "Job":
+    "Community Developer", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihhcmqkxulxtyogg6fac7r3pzpna5pyly2ysvt4xpbvpbwqbsh6qy
+- tokenId: 60e61be224fd2209e6750c3ecd7fa497f3c95e4c8a72cf53442798432b246fa3
+  name: 'Creeping Madness #13'
+  description: >-
+    {"721": {"CreepingMadness-13": {"Generation": 1, "Character": "Nathan",
+    "Theme": "Two Colored Dark", "Palette": "Blaze Orange+ Dark Jungle Green",
+    "Eye Color": "Blaze Orange", "Age": 20, "Birthday": "05-Sep", "Favorite
+    Music": "One beer- MF DOOM", "Pet": "Red Panda", "Job": "Gamer", "Rarity":
+    "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidjiiege65mvf4qt5nyq6bkkmxstlwkmcn7f4vdbjlwpez6tmy6ou
+- tokenId: 8c490a54151616158d8b129993ade978e40936a2714c8a410e929983027cec44
+  name: 'Creeping Madness #14'
+  description: >-
+    {"721": {"CreepingMadness-14": {"Generation": 1, "Character": "Nathan",
+    "Theme": "Two Colored Dark", "Palette": "Topaz Blue+ Onyx", "Eye Color":
+    "Topaz Blue", "Age": 26, "Birthday": "14-Oct", "Favorite Music":
+    "Soundgarden- 4th of July", "Pet": "Cat", "Job": "Community Developer",
+    "Rarity": "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidlcgveerzwaypeqcv5has7cnuhkkny5c4ycjb7thbyzui4pp6kvu
+- tokenId: 9247eede39866ccc0500a80e0cb53845f2680c45f892fdc964c02cb3d95dd5ba
+  name: 'Creeping Madness #15'
+  description: >
+    {"721": {"CreepingMadness-15": {"Generation": 1, "Character": "Eliza",
+    "Theme": "One Colored Light ", "Palette": "Hot Magenta", "Eye Color": "Hot
+    Magenta", "Age": 32, "Birthday": "12-Mar", "Favorite Music": "Exist for
+    love- Aurora", "Pet": "Persian Cat", "Job": "Marketer", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiejiwe3blpm4momvcmwf6g3c2wjorymwxlk2n3xolxo3h2foktko4
+- tokenId: 80f55b82c131a4dbe4b0aa25389d7de44291c31c2692f9b63b46c2991e6dc717
+  name: 'Creeping Madness #16'
+  description: >
+    {"721": {"CreepingMadness-16": {"Generation": 1, "Character": "Eliza",
+    "Theme": "One Colored Light ", "Palette": "Aqua Green", "Eye Color": "Aqua
+    Green", "Age": 29, "Birthday": "20-Apr", "Favorite Music": "L' amore, le
+    baguettes, Paris- Stella Jang", "Pet": "Hamster", "Job": "Translator",
+    "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicxzrbw2jpb2kiikgvxsvfhh36viimbo5cupixgydyw5pjf5oxc2i
+- tokenId: 0c14423bb4df57dcd7d9bb901897b9d37663fa37f03255156178f892b360c166
+  name: 'Creeping Madness #17'
+  description: >-
+    {"721": {"CreepingMadness-17": {"Generation": 1, "Character": "Eliza",
+    "Theme": "One Colored Light ", "Palette": "Leafy Green", "Eye Color": "Leafy
+    Green", "Age": 27, "Birthday": "02-May", "Favorite Music": "Tolerate it-
+    Taylor Swift", "Pet": "Turtle", "Job": "Mentor", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihbdt2jscxnqob7254pewssrph77l3q5sjkmkxjwwpr4jp6vbmciq
+- tokenId: d9647a3fcb2cc894b4439dcb4b921772ba452ad654633470a6bc1b512b442f04
+  name: 'Creeping Madness #18'
+  description: >-
+    {"721": {"CreepingMadness-18": {"Generation": 1, "Character": "Eliza",
+    "Theme": "One Colored Light ", "Palette": "Avocado Green", "Eye Color":
+    "Avocado Green", "Age": 25, "Birthday": "14-May", "Favorite Music": "Siempre
+    me quedara- Bebe", "Pet": "Hamster", "Job": "Translator", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeie5ki5r6flieulgqudpcdecsje7qg5mtnbcxbj5ve66zwfbpx2yc4
+- tokenId: 2acbb978aa4b4b2919d1b4bf7bcdccb74486f25ac751d19a42b4a525b8c93555
+  name: 'Creeping Madness #19'
+  description: >
+    {"721": {"CreepingMadness-19": {"Generation": 1, "Character": "Eliza",
+    "Theme": "One Colored Light ", "Palette": "Gold Tips", "Eye Color": "Gold
+    Tips", "Age": 30, "Birthday": "05-Apr", "Favorite Music": "I am not a woman,
+    I'm a god- Halsey", "Pet": "Goldfish", "Job": "Singer", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiamjmmn2odrlwoht5sqijlxtvv3rsz2luuscebp2vmkhvdaddptue
+- tokenId: bcf4d882a501c8fbae765007a5aa0f1ab400bb59c31b15b0b08c69ef3b464185
+  name: 'Creeping Madness #20'
+  description: >-
+    {"721": {"CreepingMadness-20": {"Generation": 1, "Character": "Eliza",
+    "Theme": "One Colored Light ", "Palette": "Ruby Red", "Eye Color": "Ruby
+    Red", "Age": 30, "Birthday": "06-Mar", "Favorite Music": "High and dry-
+    Radiohead", "Pet": "Husky Dog", "Job": "Data Scientist", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicp35qw224qmmgnyxkcaizxhtgwgfgxgp3ukrxn3b57j6vvvdbuwu
+- tokenId: 3ed7b475545a03afca9a89cd4e78eee3ce1206f4a3155bc42140625a2229c494
+  name: 'Creeping Madness #21'
+  description: >-
+    {"721": {"CreepingMadness-21": {"Generation": 1, "Character": "Eliza",
+    "Theme": "One Colored Light ", "Palette": "Deep Lavender", "Eye Color":
+    "Deep Lavender", "Age": 28, "Birthday": "20-Mar", "Favorite Music": "Heat
+    waves- Glass Animals", "Pet": "Cat", "Job": "Miner", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibgaczbjubw4xr5pf6x6czan7jqn4pqpgnf4n5o2cfpyvg2cgpds4
+- tokenId: 0ae9bfdc7f375f59f6a9a3dfe7cca249123001377d2db1231b42a0d671bb7122
+  name: 'Creeping Madness #22'
+  description: >-
+    {"721": {"CreepingMadness-22": {"Generation": 1, "Character": "Eliza",
+    "Theme": "One Colored Light ", "Palette": "Sunshade", "Eye Color":
+    "Sunshade", "Age": 31, "Birthday": "14-Apr", "Favorite Music": "Careless
+    whisper- Dave Koz", "Pet": "Goldfish", "Job": "Mentor", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidldqx3lfc2xddnbmi25hrdcsox5xvjbl2opcwac5dnubghurmxmy
+- tokenId: 9804f9abdb34236b70f41309b992a3b9c0f9f96f63ff06ace4e54366c9f2afb0
+  name: 'Creeping Madness #23'
+  description: >
+    {"721": {"CreepingMadness-23": {"Generation": 1, "Character": "Eliza",
+    "Theme": "Two Colored Light ", "Palette": "French Beige+ Rose", "Eye Color":
+    "French Beige", "Age": 31, "Birthday": "22-Mar", "Favorite Music": "The
+    other woman- Lana Del Rey", "Pet": "Persian Cat", "Job": "Song Writer",
+    "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicvd642mzwlcpcwcjquvetb4da4bpnxazmx5who773ia7hu5msg2m
+- tokenId: 99613b5b4f336f6b8dae60a6fd2100ac843ac8e1627ff1038b22283fc7bc1a18
+  name: 'Creeping Madness #24'
+  description: >-
+    {"721": {"CreepingMadness-24": {"Generation": 1, "Character": "Eliza",
+    "Theme": "Two Colored Light ", "Palette": "Raspberry Pink+ Golden Yellow",
+    "Eye Color": "Raspberry Pink", "Age": 31, "Birthday": "16-Mar", "Favorite
+    Music": "Lost on you- LP", "Pet": "Hamster", "Job": "Musician ", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiawsdjlomgndjtq4yf2cm4wi4dc2luskg7ik7atuabao2auu2qypy
+- tokenId: 377d49c5764dd3e742da293678b0bf2213ee3a37f3f9309468819bc09ee6e5a7
+  name: 'Creeping Madness #25'
+  description: >-
+    {"721": {"CreepingMadness-25": {"Generation": 1, "Character": "Eliza",
+    "Theme": "Two Colored Light ", "Palette": "Wisteria+ Morning Glory", "Eye
+    Color": "Wisteria", "Age": 36, "Birthday": "08-Apr", "Favorite Music": "TV-
+    Billie Eilish", "Pet": "Cat", "Job": "Community Developer", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiex6z3i7spu6mx6t3454dosaik57ct4wvj7rim7f7m5exmpoipjsm
+- tokenId: 61ff47a0562b9723566c79d8853e33c4b212f11a15c6c359288e0987a3981198
+  name: 'Creeping Madness #26'
+  description: >-
+    {"721": {"CreepingMadness-26": {"Generation": 1, "Character": "Eliza",
+    "Theme": "Two Colored Light ", "Palette": "Butterfly Blue+ Bright Magenta",
+    "Eye Color": "Butterfly Blue", "Age": 29, "Birthday": "18-Apr", "Favorite
+    Music": "Happiness is a butterfly- Lana Del Rey", "Pet": "Bluebird", "Job":
+    "Community Developer", "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigalnnqbenkp4raduybq5jovsyyuyimxqwi3hjkcwooqyfbexriwm
+- tokenId: 11bdc18152e779e3d0e22c3dfd949622794c638d49972d7ba530ac2b01c2395f
+  name: 'Creeping Madness #27'
+  description: >-
+    {"721": {"CreepingMadness-27": {"Generation": 1, "Character": "Eliza",
+    "Theme": "Two Colored Dark", "Palette": "Dark Green Blue+ Pistacho Green",
+    "Eye Color": "Dark Green Blue", "Age": 30, "Birthday": "24-May", "Favorite
+    Music": "Ariel- Anathema", "Pet": "Owl", "Job": "Frontend Developer",
+    "Rarity": "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibbyzjurlzrtotljwkghl7bovlho55ulzobbh3dvrmuvy3tobyczy
+- tokenId: aec030ccb02a0393707cba386ae31d714279a39e98b71e3a4e12b1ee6196a60e
+  name: 'Creeping Madness #29'
+  description: >
+    {"721": {"CreepingMadness-29": {"Generation": 1, "Character": "Lucas",
+    "Theme": "One Colored Light ", "Palette": "Mushroom", "Eye Color":
+    "Mushroom", "Age": 17, "Birthday": "03-Jun", "Favorite Music": "Bashed out-
+    This Is the Kit ", "Pet": "Deer", "Job": "Intern", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeig77kftsv7lydkrzwdmg63ke7diljwweqprd5fxt5cb5p3wjrkcga
+- tokenId: c0ce365d262f8c706788b242b98ed79174bed40b60fd248faeb9988061e0165a
+  name: 'Creeping Madness #30'
+  description: >-
+    {"721": {"CreepingMadness-30": {"Generation": 1, "Character": "Lucas",
+    "Theme": "One Colored Light ", "Palette": "Pale Orange", "Eye Color": "Pale
+    Orange", "Age": 18, "Birthday": "16-Jul", "Favorite Music": "Let it happen-
+    Tame Impala", "Pet": "Red Panda", "Job": "Translator", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigwxf3vvc34np5ndvuythrfp5vznjrh73j2cbqxnoocoosircyy5y
+- tokenId: 90cdc66ff60bbb9619fa7909dc86f7c1ff977421595b11027a959bb82700463d
+  name: 'Creeping Madness #31'
+  description: >-
+    {"721": {"CreepingMadness-31": {"Generation": 1, "Character": "Lucas",
+    "Theme": "One Colored Light ", "Palette": "Violet", "Eye Color": "Violet",
+    "Age": 19, "Birthday": "12-Aug", "Favorite Music": "Here comes the sun- The
+    Beatles", "Pet": "Hamster", "Job": "Researcher", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigjvo5gatl4v5ikwn3jlqb5xkamazhl7utpcjlnubauyiyta3utba
+- tokenId: c7cda72f1fd5c832394be07ec413021199d9415c48918bc88ed5a78d94536013
+  name: 'Creeping Madness #32'
+  description: >-
+    {"721": {"CreepingMadness-32": {"Generation": 1, "Character": "Lucas",
+    "Theme": "One Colored Light ", "Palette": "Lichen Green", "Eye Color":
+    "Lichen Green", "Age": 17, "Birthday": "06-Jun", "Favorite Music": "Black
+    summer- Red Hot Chili Peppers", "Pet": "Alpaca", "Job": "Art Student",
+    "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicjk25rcvohop3o63igorkvxbk2jz6onv42a4yvjqbejfrdj2d3ei
+- tokenId: 03e4c51e85e5efd71b6bb971041e005aac4424e43a9062526f931582b747ae67
+  name: 'Creeping Madness #33'
+  description: >-
+    {"721": {"CreepingMadness-33": {"Generation": 1, "Character": "Lucas",
+    "Theme": "One Colored Light ", "Palette": "Cornflower Blue", "Eye Color":
+    "Cornflower Blue", "Age": 20, "Birthday": "26-Aug", "Favorite Music":
+    "Billie jean- Micheal Jackson", "Pet": "Owl", "Job": "Miner", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihwzc6ie5esyh5epm2njkmswsqsx7jsx7wey6bjmzx47hcjecwom4
+- tokenId: 99f2fc2df65a99fd0741ec0cc2f1aa088276ea80550af96f021a55b22f2ea38c
+  name: 'Creeping Madness #34'
+  description: >-
+    {"721": {"CreepingMadness-34": {"Generation": 1, "Character": "Lucas",
+    "Theme": "One Colored Light ", "Palette": "Golden", "Eye Color": "Supernova
+    Yellow", "Age": 22, "Birthday": "07-Aug", "Favorite Music": "Lights up-
+    Harry Styles", "Pet": "Horse", "Job": "Musician ", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihn56362vkiduvndjzdzmi3ghyfsyyi7a4q2l7ewkpifcphwzj4pq
+- tokenId: d1454dd00476a460ae96d13364d8acc3182aacbb77f2320254e6c9d98d0ce590
+  name: 'Creeping Madness #35'
+  description: >-
+    {"721": {"CreepingMadness-35": {"Generation": 1, "Character": "Lucas",
+    "Theme": "One Colored Light ", "Palette": "Kiwi Green", "Eye Color": "Kiwi
+    Green", "Age": 19, "Birthday": "13-Jul", "Favorite Music": "Heathens- Twenty
+    One Pilots", "Pet": "Frog", "Job": "Community Developer", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibts2fhiqk5k5bubf4gfu75s3fba3fqrpzpuedvnja2dv7vsadmui
+- tokenId: 26b2e01d1dc1e92f26fd90eb5df38f8ac8f045fb6c54e03019e6a68b515772d0
+  name: 'Creeping Madness #36'
+  description: >
+    {"721": {"CreepingMadness-36": {"Generation": 1, "Character": "Lucas",
+    "Theme": "One Colored Light ", "Palette": "Chill Blue", "Eye Color": "Chill
+    Blue", "Age": 19, "Birthday": "08-Jul", "Favorite Music": "Enter the dragon-
+    blk.", "Pet": "Owl", "Job": "Tourist", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidcxou4sgh5byx63dnyf5h3vhhr5hgdhgoi5xkry4v7jpdkduistq
+- tokenId: 3ceea14b128a0cc07cc8e9854f26a3de5a8ce92eabd24f64b0797ce6e3ef3b51
+  name: 'Creeping Madness #37'
+  description: >-
+    {"721": {"CreepingMadness-37": {"Generation": 1, "Character": "Lucas",
+    "Theme": "Two Colored Light ", "Palette": "Alien Green+ Old Pink", "Eye
+    Color": "Alien Green", "Age": 18, "Birthday": "07-Jun", "Favorite Music":
+    "Changes- Seu Jorge", "Pet": "Camel", "Job": "Miner", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihnddcxtoxgf6o4p2ak7o2t4cqhicjh6t2emjehzekqi4e6rgtjnq
+- tokenId: 1966869aca5825223d73463a4215d417e335974a23b365307237ab232509736f
+  name: 'Creeping Madness #38'
+  description: >-
+    {"721": {"CreepingMadness-38": {"Generation": 1, "Character": "Lucas",
+    "Theme": "Two Colored Light ", "Palette": "Neptune+ Neon Pink", "Eye Color":
+    "Neptune", "Age": 20, "Birthday": "18-Jun", "Favorite Music": "The
+    scientist- Coldplay", "Pet": "Red Panda", "Job": "Community Developer",
+    "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiajfpx7sso7dacsgi7rdj4l2b3euqanpcptnwdwkdxx4xvhe27mpa
+- tokenId: 289f6b4e9134585c19c2851a994d6cbd4e6ee21565ab20b9de55215df2b123f7
+  name: 'Creeping Madness #39'
+  description: >-
+
+    {"721": {"CreepingMadness-39": {"Generation": 1, "Character": "Lucas",
+    "Theme": "Two Colored Light ", "Palette": "Bright Sun+ Jasmine Purple", "Eye
+    Color": "Bright Sun", "Age": 19, "Birthday": "16-Aug", "Favorite Music":
+    "Could have been me- Halsey", "Pet": "Toucan", "Job": "Gamer", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibb4aqbk3rmqfk22cjmjesxob4dqftve7nzygdktbammltoxbafva
+- tokenId: a0fbfd955bbf7b3e7f7f54a99ed89a3e89bd162e3b50da65662ff01f97a86791
+  name: 'Creeping Madness #40'
+  description: >-
+    {"721": {"CreepingMadness-40": {"Generation": 1, "Character": "Lucas",
+    "Theme": "Two Colored Light ", "Palette": "Pale Gold+ Blue Bell", "Eye
+    Color": "Pale Gold", "Age": 17, "Birthday": "14-Jun", "Favorite Music":
+    "Daylight- Taylor Swift", "Pet": "Monkey", "Job": "Translator", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieom3nlib2o5c3wflfb3mzi2lkzpjakulgo5h36zqm6rk5aa4xca4
+- tokenId: 8a0b40b66ed6fd56782703d9a29ebcbffa533d0122527d693c14d2d75a182f93
+  name: 'Creeping Madness #41'
+  description: >-
+    {"721": {"CreepingMadness-41": {"Generation": 1, "Character": "Lucas",
+    "Theme": "Two Colored Dark", "Palette": "Dark Mustard+ Deep Violet", "Eye
+    Color": "Dark Mustard", "Age": 18, "Birthday": "02-Aug", "Favorite Music":
+    "Blinding lights- The Weekend", "Pet": "Hedgehog", "Job": "Gamer", "Rarity":
+    "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieavdxgt3if4xmpcm62hvk3ncnqjrgnmubehjd7t4kdntel753aem
+- tokenId: 417c24ef8a3be763e465d9f1833035de67174b6382fa65caa5f229992d88b63d
+  name: 'Creeping Madness #42'
+  description: >
+    {"721": {"CreepingMadness-42": {"Generation": 1, "Character": "Lucas",
+    "Theme": "Two Colored Dark", "Palette": "Persian Green+ Dark Blue", "Eye
+    Color": "Persian Green", "Age": 20, "Birthday": "01-Jul", "Favorite Music":
+    "Dream away with me- Pallett", "Pet": "Blue Jay Bird", "Job": "Community
+    Developer", "Rarity": "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifqcuclaghkaoeslz37x255iuqjmonrtyxadlpl3yosztcjf4oahq
+- tokenId: 6e085e60c95c73709043927d276c5531115b3a9b5b3dee3b31091ae080fafb30
+  name: 'Creeping Madness #43'
+  description: >-
+    {"721": {"CreepingMadness-43": {"Generation": 1, "Character": "Daisy",
+    "Theme": "One Colored Light ", "Palette": "Ruby Red", "Eye Color": "Ruby
+    Red", "Age": 22, "Birthday": "05-Dec", "Favorite Music": "Sweet child o'
+    mine- Guns N' Roses ", "Pet": "Hedgehog", "Job": "Game Developer", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiawceaez4oiukmbfu4tb3yrrgmeemn7voa34ecvxdgh3ieh5sfgfe
+- tokenId: c62d79ea42e34bd46800c5a4c108113f272fd939ea2a35a729dba4b26c0d2a8a
+  name: 'Creeping Madness #44'
+  description: >-
+    {"721": {"CreepingMadness-44": {"Generation": 1, "Character": "Daisy",
+    "Theme": "One Colored Light ", "Palette": "Sunny Yellow", "Eye Color":
+    "Sunny Yellow", "Age": 23, "Birthday": "16-Feb", "Favorite Music": "Free-
+    Florence + The Machine", "Pet": "Husky Dog", "Job": "Community Developer",
+    "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifjzqggnxsptiqu25somkeo5wpnpnoopo6m3ddsgwom5v3bsl6uby
+- tokenId: 041d056b7da69afb05216cbf488d6843324146d7ff8dc2790234599af9d7795c
+  name: 'Creeping Madness #45'
+  description: >-
+    {"721": {"CreepingMadness-45": {"Generation": 1, "Character": "Daisy",
+    "Theme": "One Colored Light ", "Palette": "Falu Red", "Eye Color": "Falu
+    Red", "Age": 18, "Birthday": "07-Jan", "Favorite Music": "Jigsaw falling
+    into place- Radiohead", "Pet": "Falcon", "Job": "Data Scientist", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid5f57v2dlkwlw443kuhjhxgaed6bhomwxb3gvg5eowsx53inerbq
+- tokenId: 3fa0a8bcb713d2578dbebab56d86a48b8f13d7654500ef360a37a3c667f11253
+  name: 'Creeping Madness #46'
+  description: >-
+    {"721": {"CreepingMadness-46": {"Generation": 1, "Character": "Daisy",
+    "Theme": "One Colored Light ", "Palette": "Gold Drop", "Eye Color": "Gold
+    Drop", "Age": 19, "Birthday": "15-Jan", "Favorite Music": "Diamonds on my
+    windshield- Tom Waits", "Pet": "Rabbit", "Job": "Miner", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifaeadnbyrnida433kewokqrn2wnvnqvqklt7ur4ysczseu3tg4d4
+- tokenId: eea0f0055b6eb4c69dec9a2e316f539052dc0160554e1e6f782cc69e110142d3
+  name: 'Creeping Madness #47'
+  description: >-
+    {"721": {"CreepingMadness-47": {"Generation": 1, "Character": "Daisy",
+    "Theme": "One Colored Light ", "Palette": "Plum Velvet", "Eye Color": "Plum
+    Velvet", "Age": 19, "Birthday": "09-Jan", "Favorite Music": "Cigarettes out
+    of window- TV Girl", "Pet": "Flamingo", "Job": "Baker", "Rarity":
+    "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidnkvl2ajs4cxsln5huwmutqfoymr6geubiv3ihw6z6ozxtacixsu
+- tokenId: 6b1fee3c90792aa3117c77c423ca1b5f8f7858490228e97096dc699bab5f103b
+  name: 'Creeping Madness #48'
+  description: >
+    {"721": {"CreepingMadness-48": {"Generation": 1, "Character": "Daisy",
+    "Theme": "One Colored Light ", "Palette": "Minty Green", "Eye Color": "Minty
+    Green", "Age": 20, "Birthday": "18-Feb", "Favorite Music": "The smoke- The
+    Smile", "Pet": "Parrot", "Job": "Market Analyst", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiatiqiq6auvjwbwxeqfohwreykmq5fthdq6a3vjj53jpuou7ru3ky
+- tokenId: adcd437c6b6789930eee022c21d3747b47059a2f870a681b20a87c03b2efe68b
+  name: 'Creeping Madness #49'
+  description: >
+    {"721": {"CreepingMadness-49": {"Generation": 1, "Character": "Daisy",
+    "Theme": "One Colored Light ", "Palette": "Pink Pearl", "Eye Color": "Pink
+    Pearl", "Age": 21, "Birthday": "06-Feb", "Favorite Music": "7 Rings- Ariana
+    Grande", "Pet": "Rabbit", "Job": "Intern", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigduwaldih3pzn72rqdq2o3xctpzjlikfju2vw7y6yjipeifx7nby
+- tokenId: cd22a1dec35a88f533b8660d2d65da380bb042501112c2d8ebbe063147dc0b2b
+  name: 'Creeping Madness #50'
+  description: >-
+    {"721": {"CreepingMadness-50": {"Generation": 1, "Character": "Daisy",
+    "Theme": "One Colored Light ", "Palette": "Bright Lavender", "Eye Color":
+    "White", "Age": 22, "Birthday": "15-Dec", "Favorite Music": "Gasoline-
+    Halsey", "Pet": "Persian Cat", "Job": "Model", "Rarity": "Common"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeic2wedetzxiowleyalsfkpx55nit37m3jprod2rg3pxd6nq5lk5z4
+- tokenId: 493739e528ee0be13f21e9f9ea786fb8071371200092e135a39c0a808e4846b8
+  name: 'Creeping Madness #51'
+  description: >
+    {"721": {"CreepingMadness-51": {"Generation": 1, "Character": "Daisy",
+    "Theme": "Two Colored Light ", "Palette": "Daisy Bush+ Radical Red", "Eye
+    Color": "Daisy Bush", "Age": 23, "Birthday": "04-Dec", "Favorite Music":
+    "Chandelier- Sia", "Pet": "Hamster", "Job": "Singer", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieenbjms3iixpadllc6nranwnl662chkhvdy72sr5ltddm6i6foqm
+- tokenId: 66a21b95ce87249cc8525f920519cd1f3b6dfd500599d287ae2a38d9c24be2b3
+  name: 'Creeping Madness #52'
+  description: >-
+    {"721": {"CreepingMadness-52": {"Generation": 1, "Character": "Daisy",
+    "Theme": "Two Colored Light ", "Palette": "Lava Red+ Marigold Yellow", "Eye
+    Color": "Lava Red", "Age": 22, "Birthday": "08-Jan", "Favorite Music": "My
+    boy- Billie Eilish", "Pet": "Hedgehog", "Job": "Gamer", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiepc2gzfkqfh4t5nmv6jgzjgwkdelutcihktigg7gpzms5g7wzfai
+- tokenId: 3472f481fc381b886c8ab25532b1bfe9eb58b941ae0cec6246becef114255536
+  name: 'Creeping Madness #53'
+  description: >-
+    {"721": {"CreepingMadness-53": {"Generation": 1, "Character": "Daisy",
+    "Theme": "Two Colored Light ", "Palette": "Blue Orchid+ Neon Purple", "Eye
+    Color": "Blue Orchid", "Age": 21, "Birthday": "11-Feb", "Favorite Music":
+    "Ya'aburnee- Halsey", "Pet": "Dog", "Job": "Pharmacist", "Rarity":
+    "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihjqpuous6v5vkd3n3ecp2aii5w6m5gpyez5hq64eimzxkev4mpze
+- tokenId: 135253a37c59b4fd35d62c4e89bd3c351db24e5e5d3bcd22e12fe4f3634b38fd
+  name: 'Creeping Madness #54'
+  description: >
+    {"721": {"CreepingMadness-54": {"Generation": 1, "Character": "Daisy",
+    "Theme": "Two Colored Light ", "Palette": "Hot Green+ Bright Cyan", "Eye
+    Color": "Hot Green", "Age": 18, "Birthday": "11-Dec", "Favorite Music":
+    "High by the beach- Lana Del Rey", "Pet": "Bluebird", "Job": "Researcher",
+    "Rarity": "Uncommon"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid4xibdrgzflthkzzta5ssebndbqm2mf4ys6vmpbi4km5jjbeiw5q
+- tokenId: 9e806f57df0849e71c46c31eeac7bc8f6a2beea57a7b2ae7bf9ecb475ccbb0dc
+  name: 'Creeping Madness #55'
+  description: >-
+    {"721": {"CreepingMadness-55": {"Generation": 1, "Character": "Daisy",
+    "Theme": "Two Colored Dark", "Palette": "Fire Bush+ Royal Purple", "Eye
+    Color": "Fire Bush", "Age": 20, "Birthday": "20-Feb", "Favorite Music": "The
+    monster- Eminem ft. Rihanna", "Pet": "Cat", "Job": "Singer", "Rarity": "Rare
+    "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifbzsehiqivmjs3qa66rmlkbvuwxt2gkwcaciasvwlsxd32puri6q
+- tokenId: 0bbc6aa309c12c6a800535a79dc641cdaee0300cb60722f1b569ae97a64da5f6
+  name: 'Creeping Madness #56'
+  description: >
+    {"721": {"CreepingMadness-56": {"Generation": 1, "Character": "Daisy",
+    "Theme": "Two Colored Dark", "Palette": "Emerald Green+ Chelsea Gem", "Eye
+    Color": "Emerald Green", "Age": 19, "Birthday": "22-Jan", "Favorite Music":
+    "Immigrant song- Led Zeppelin", "Pet": "Turtle", "Job": "Gamer", "Rarity":
+    "Rare "}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibli2xnt66zv4s3ovmlea6lj7gnf3ibjmj4zifa33uilc4o7l7liq
+- tokenId: 36b18d38d5a84a92920ad3206991565cfeae0ceb3acaf1d3e8e2a7d7ad4987a6
+  name: 'Creeping Madness #57'
+  description: >
+    {"721": {"CreepingMadness-57": {"Generation": 1, "Character": "Nathan",
+    "Theme": "Dark Shining Eyes", "Palette": "Rosewood+ Fire", "Eye Color":
+    "Rosewood", "Age": 27, "Birthday": "29-Sep", "Favorite Music": "Numb- Linkin
+    Park", "Pet": "Golden Eagle", "Job": "Song Writer", "Rarity": "Unique"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidgcwam2cocbnioqbusq6lrx523nywcwdu44at2hk2yoiap2fdo5u
+- tokenId: b9367d3156f5c8762bb78e2ea6987e93f045e780ed38bd71bc75f61e7c5caed6
+  name: 'Creeping Madness #58'
+  description: >-
+
+    {"721": {"CreepingMadness-58": {"Generation": 1, "Character": "Eliza",
+    "Theme": "Dark Shining Eyes", "Palette": "Dark Midnight Blue+ Blue Zircon",
+    "Eye Color": "Sky Blue", "Age": 28, "Birthday": "16-Mar", "Favorite Music":
+    "City of stars- Ryan Gosling ", "Pet": "Cyanocitta", "Job": "Actress",
+    "Rarity": "Unique"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibnl267kienvpq3ipnpsnv7e4hxeqksrfcjv57fqkyx3n47rol6tm
+- tokenId: 17a6041fd09c5f639fc2f8781e2a2dee5cb1bcaf3d6a8cb9c491088f0973908c
+  name: 'Creeping Madness #59'
+  description: >-
+    {"721": {"CreepingMadness-59": {"Generation": 1, "Character": "Lucas",
+    "Theme": "Dark Shining Eyes", "Palette": "Rich Gold+ Purple Taupe", "Eye
+    Color": "Sunshade", "Age": 21, "Birthday": "21-Jun", "Favorite Music": "A
+    sky full of stars- Coldplay", "Pet": "Dragon", "Job": "Astronomer",
+    "Rarity": "Unique"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiaks4oht2ezrf5mrqiusshps536iim2enyrfc3zw7jkrhvlgpnh24
+- tokenId: 512b477edfc50607a080ac321ad88ab4075dc43404464e95d6fbab22f2f15e8b
+  name: 'Creeping Madness #60'
+  description: >-
+
+    {"721": {"CreepingMadness-60": {"Generation": 1, "Character": "Daisy",
+    "Theme": "Dark Shining Eyes", "Palette": "Wine Red+ Hazel", "Eye Color":
+    "Ruddy Red", "Age": 22, "Birthday": "22-Feb", "Favorite Music": "Copycat-
+    Billie Eilish", "Pet": "Golden Tanager", "Job": "Fashion Photographer",
+    "Rarity": "Unique"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeickri5dno4nlcat5mzhe35upcfqtsvrj7nc6aoyye7mnlihl36cna
